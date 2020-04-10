@@ -72,7 +72,3 @@ rails s
 ## Troubleshooting
 When working with a team on a project that uses Node, it is important that everyone use the same version of node and npm.
 In the case of this project, we are using Node version 5.2.0.
-
-
-## Screen Shots
-![Meetups](https://github.com/RyanCCollins/cdn/blob/master/portfolio-image-gallery-images/meetup-event-planner/meetup-event-planner/main-mock.png?raw=true)
